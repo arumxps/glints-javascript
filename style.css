@@ -208,6 +208,12 @@ input[type = "email"] {
     background-color: #f1de96;
 }
 
+.footer-hr {
+    width: 80%;
+    margin: auto;
+    margin-bottom: 5px;
+}
+
 footer {
     margin-top: 30px;
     text-align: center;
